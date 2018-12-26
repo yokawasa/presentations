@@ -1,4 +1,4 @@
-# presentations
+# Presentations
 Past talks and presentations
 ---
 
@@ -15,7 +15,7 @@ Past talks and presentations
 * [Developer Summit 2018 Fukuoka](https://event.shoeisha.jp/devsumi/20180906/session/1777/) - Sept 6, 2018
   * Presentators: Yoichi Kawasaki
   * Talk slides: [コンテナ＆サーバーレス：トレンドの考察と少し先の未来の展望](https://www.slideshare.net/yokawasa/container-and-serverless-113315212)
-  * Articles: [CodeZine](https://codezine.jp/article/detail/11098)
+  * Articles: [標準化が進むコンテナとサーバーレス！ 「提供したい価値」から見極める活用の勘所とは【デブサミ2018 福岡】@CodeZine](https://codezine.jp/article/detail/11098)
 * [OpenStack Days Tokyo 2018](http://openstackdays.com/program-detail/#d1p4s7) - Aug 2, 2018
   * Presentators: Ryo Fujita, Yoichi Kawasaki
   * Workshop slides: [Azure Kubernetes Services Workshop](https://github.com/yokawasa/azure-voting-app/blob/master/labs/cndt_aks_handson.pdf)
@@ -23,15 +23,15 @@ Past talks and presentations
   * Presentators: Jun Ohtani, Yoichi Kawasaki
   * Talk slides: [ここまでできる！Elastic Stack による運用状況の可視化 - Azure サービス～ Kubernetes まで](https://info.microsoft.com/JA-AZUREPLAT-CNTNT-FY18-06Jun-14-decode18Online-MGC0002638_01Registration-ForminBody.html) ([video](https://youtu.be/LG7bJeBN6CI))
   * Presentators: Yoichi Kawasaki
-  * Articles: Interview - [Think IT](https://thinkit.co.jp/article/13087)
+  * Articles: [Elastic大谷氏とマイクロソフト川崎氏が語る Elastic＋Azureですべてが可視化される世界@Think IT](https://thinkit.co.jp/article/13087)
 * [Japan Container Days V18.04](https://containerdays.jp/v1804/) - April 19, 2018
   * Presentators: Yoichi Kawasaki
   * Talk slides: [Kubernetes x PaaS – コンテナアプリケーションのNoOpsへの挑戦](https://www.slideshare.net/yokawasa/kubernetes-x-paas-noops)
-  * Articles: [Think IT](https://thinkit.co.jp/article/14030)
+  * Articles: [AzureによるマネージドサービスとKubernetesエコシステムで“NoOps”を実現@Think IT](https://thinkit.co.jp/article/14030)
 * [Developer Summit 2018](https://event.shoeisha.jp/devsumi/20180215/session/1659/) - Feb 16, 2018
   * Presentators: Hiromasa Oka, Yoichi Kawasaki
   * Talk slides: [高可用性＋ハイスケールシステムを自律運用させてみよう ～ Microsoft Azure による Serverless から NoOps への挑戦](https://www.slideshare.net/hiromasaoka/noops-88082246)
-  * Articles: [CodeZine](https://codezine.jp/article/detail/10716)
+  * Articles: [NoOpsで高可用性・ハイスケールシステムを自律運用させよう！ 実現に必要な3つのポイント【デブサミ2018】@CodeZine](https://codezine.jp/article/detail/10716)
 * [Intelligent Mobile App と Cloud Native が創るアプリ開発の未来](https://microsoft-events.connpass.com/event/80453/) - Mar 13, 2018
   * Co-presentation: Jan Engelsberg, Yoichi Kawasaki
   * Talk slides: [スケーラブルで手間なく動かせる！もうすぐ 一般提供開始 Azure Database for MySQL/PostgreSQL](https://www.slideshare.net/MicrosoftAzure_Japan/azure-database-for-mysql-postgresql)
