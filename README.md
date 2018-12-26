@@ -3,7 +3,7 @@ Past talks and presentations
 ---
 
 * [Container X mas Party with flexy](https://flexy.connpass.com/event/110839/) - Dec 18, 2018
-  * Talk slides: [Service Mesh Status Quo 2018](https://www.slideshare.net/yokawasa/service-mesh-status-quo-2018-126171897)
+  * Talk slides: [Service Mesh Status Quo 2018 - 2019年に向けたService Meshの現状課題の整理と考察](https://www.slideshare.net/yokawasa/service-mesh-status-quo-2018-126171897)
   * Demo code: [Envoy Front proxy](https://github.com/yokawasa/envoy-proxy-demos) | [Istio Canary Deployment](https://github.com/istio/istio/tree/master/samples/bookinfo)
 * [Japan Container Days V18.12](https://containerdays.jp/) - Dec 5, 2018
   * Co-presentation: Hiromasa Oka, Yoichi Kawasaki
@@ -19,9 +19,9 @@ Past talks and presentations
   * Workshop slides: [Azure Kubernetes Services Workshop](https://github.com/yokawasa/azure-voting-app/blob/master/labs/cndt_aks_handson.pdf)
 * [de:code 2018](https://www.microsoft.com/ja-jp/events/decode/2018/sessions.aspx#AD29) - May 23, 2018
   * Co-presentation: Jun Ohtani, Yoichi Kawasaki
-  * Talk slides: [ここまでできる！Elastic Stack による運用状況の可視化 - Azure サービス～ Kubernetes まで](https://info.microsoft.com/JA-AZUREPLAT-CNTNT-FY18-06Jun-14-decode18Online-MGC0002638_01Registration-ForminBody.html)([video](https://youtu.be/LG7bJeBN6CI))
+  * Talk slides: [ここまでできる！Elastic Stack による運用状況の可視化 - Azure サービス～ Kubernetes まで](https://info.microsoft.com/JA-AZUREPLAT-CNTNT-FY18-06Jun-14-decode18Online-MGC0002638_01Registration-ForminBody.html) ([video](https://youtu.be/LG7bJeBN6CI))
   * Articles: Interview - [Think IT](https://thinkit.co.jp/article/13087)
-* [Japan Container Day V18.04](https://containerdays.jp/v1804/) - April 19, 2018
+* [Japan Container Days V18.04](https://containerdays.jp/v1804/) - April 19, 2018
   * Talk slides: [Kubernetes x PaaS – コンテナアプリケーションのNoOpsへの挑戦](https://www.slideshare.net/yokawasa/kubernetes-x-paas-noops)
   * Articles: [Think IT](https://thinkit.co.jp/article/14030)
 * [Developer Summit 2018](https://event.shoeisha.jp/devsumi/20180215/session/1659/) - Feb 16, 2018
@@ -34,3 +34,6 @@ Past talks and presentations
 * [Elastic{ON} TOUR Tokyo 2017](https://www.elastic.co/jp/elasticon/tour/2017/tokyo) - Dec 14, 2017
   * Talk Slides: [15分でお届けする Elastic Stack on Azure 設計・構築ノウハウ](https://www.slideshare.net/yokawasa/15-elastic-stack-on-azure-84976576)
   * Videos: [@Elastic Site](https://www.elastic.co/jp/elasticon/tour/2017/tokyo/microsoft)
+* [de:code 2017](https://www.microsoft.com/ja-jp/events/decode/2017/sessions.aspx#DI08) - May 24, 2017
+  * Talk slides: [その情報うまく取り出せていますか? ～ 意外と簡単、Azure Search で短時間で検索精度と利便性を向上させるための方法](https://www.slideshare.net/decode2017/di08-azure-search) ([video](https://channel9.msdn.com/Events/de-code/2017/DI08))
+  * Demo code: [Azure Search Analyzer Test, Explorer UI, QnA Bot](https://github.com/yokawasa/decode2017)
