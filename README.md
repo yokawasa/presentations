@@ -2,17 +2,21 @@
 Past talks and presentations
 ---
 
+* [Developers Summit 2019](https://event.shoeisha.jp/devsumi/20190214/session/1985/) - Feb 15, 2019
+  * Presentators: Yoichi Kawasaki
 * [Container X mas Party with flexy](https://flexy.connpass.com/event/110839/) - Dec 18, 2018
   * Presentators: Yoichi Kawasaki
   * Talk slides: [Service Mesh Status Quo 2018 - 2019年に向けたService Meshの現状課題の整理と考察](https://www.slideshare.net/yokawasa/service-mesh-status-quo-2018-126171897)
   * Demo code: [Envoy Front proxy](https://github.com/yokawasa/envoy-proxy-demos) | [Istio Canary Deployment](https://github.com/istio/istio/tree/master/samples/bookinfo)
+  * Articles: [コンテナを活用する精鋭たちが登壇！ Kubernetesの使いどころや本番環境での注意点とは？【Container X mas Party】](https://codezine.jp/article/detail/11342)
 * [Japan Container Days V18.12](https://containerdays.jp/) - Dec 5, 2018
   * Presentators: Hiromasa Oka, Yoichi Kawasaki
   * Talk slides: [NoOpsが目指す未来とコンテナ技術](https://www.slideshare.net/hiromasaoka/noops-125109991)
+  * Video: [[2E5] NoOpsが目指す未来像とコンテナ技術](https://www.youtube.com/watch?v=5WJmBjRfZag)
 * [Microsoft Tech Summit 2018](https://www.microsoft.com/ja-jp/events/techsummit/2018/session.aspx#AD08) - Nov 7, 2018
   * Presentators: Takuya Hane, Yoichi Kawasaki
   * Talk slides: [Azureにおけるコンテナー & サーバーレス テクノロジの選択肢と選定ポイント](https://www.slideshare.net/yokawasa/azure-containers-serverless-technology-options-aftertechsummit2018-edition)
-* [Developer Summit 2018 Fukuoka](https://event.shoeisha.jp/devsumi/20180906/session/1777/) - Sept 6, 2018
+* [Developers Summit 2018 Fukuoka](https://event.shoeisha.jp/devsumi/20180906/session/1777/) - Sept 6, 2018
   * Presentators: Yoichi Kawasaki
   * Talk slides: [コンテナ＆サーバーレス：トレンドの考察と少し先の未来の展望](https://www.slideshare.net/yokawasa/container-and-serverless-113315212)
   * Articles: [標準化が進むコンテナとサーバーレス！ 「提供したい価値」から見極める活用の勘所とは【デブサミ2018 福岡】@CodeZine](https://codezine.jp/article/detail/11098)
@@ -28,7 +32,7 @@ Past talks and presentations
   * Presentators: Yoichi Kawasaki
   * Talk slides: [Kubernetes x PaaS – コンテナアプリケーションのNoOpsへの挑戦](https://www.slideshare.net/yokawasa/kubernetes-x-paas-noops)
   * Articles: [AzureによるマネージドサービスとKubernetesエコシステムで“NoOps”を実現@Think IT](https://thinkit.co.jp/article/14030)
-* [Developer Summit 2018](https://event.shoeisha.jp/devsumi/20180215/session/1659/) - Feb 16, 2018
+* [Developers Summit 2018](https://event.shoeisha.jp/devsumi/20180215/session/1659/) - Feb 16, 2018
   * Presentators: Hiromasa Oka, Yoichi Kawasaki
   * Talk slides: [高可用性＋ハイスケールシステムを自律運用させてみよう ～ Microsoft Azure による Serverless から NoOps への挑戦](https://www.slideshare.net/hiromasaoka/noops-88082246)
   * Articles: [NoOpsで高可用性・ハイスケールシステムを自律運用させよう！ 実現に必要な3つのポイント【デブサミ2018】@CodeZine](https://codezine.jp/article/detail/10716)
