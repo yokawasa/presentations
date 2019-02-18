@@ -3,7 +3,7 @@
 Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitter:[@yokawasa](https://twitter.com/yokawasa))
 
 ---
-* [Microsoft Cloud Native Seminar](https://microsoft-events.connpass.com/event/119618/) - Feb 21, 2019
+* [Microsoft Seminar: Cloud Native & Case Studies](https://microsoft-events.connpass.com/event/119618/) - Feb 21, 2019
 * [Developers Summit 2019 Tokyo](https://event.shoeisha.jp/devsumi/20190214/session/1985/) - Feb 15, 2019
   * [Talk slides](https://www.slideshare.net/yokawasa/azure-cloud-native-stack-for-developers-azure)
 * [Container X mas Party with flexy](https://flexy.connpass.com/event/110839/) - Dec 18, 2018
@@ -35,7 +35,7 @@ Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitte
   * Co-presentation with Hiromasa Oka
   * [Talk slides](https://www.slideshare.net/hiromasaoka/noops-88082246)
   * Articles: [@CodeZine](https://codezine.jp/article/detail/10716)
-* [Intelligent Mobile App と Cloud Native が創るアプリ開発の未来](https://microsoft-events.connpass.com/event/80453/) - Mar 13, 2018
+* [Microsoft Seminar: Intelligent Mobile & Cloud Native App](https://microsoft-events.connpass.com/event/80453/) - Mar 13, 2018
   * Co-presentation with Jan Engelsberg
   * [Talk slides](https://www.slideshare.net/MicrosoftAzure_Japan/azure-database-for-mysql-postgresql)
 * [Elastic{ON} TOUR Tokyo 2017](https://www.elastic.co/jp/elasticon/tour/2017/tokyo) - Dec 14, 2017
