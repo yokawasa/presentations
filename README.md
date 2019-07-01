@@ -3,9 +3,11 @@
 Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitter:[@yokawasa](https://twitter.com/yokawasa))
 
 ---
+* [DevLOVE X](https://devlove.wixsite.com/devlovex) - June 22, 2019
+  * [Talk slides](https://www.slideshare.net/yokawasa/serverless-151261322)
 * [de:code 2019](https://www.microsoft.com/ja-jp/events/decode/2019/default.aspx) - May 29 & 30, 2019
-  * [Session CD02](https://www.microsoft.com/ja-jp/events/decode/2019session/detail.aspx?sid=CD02)
-  * [Session DT81](https://www.microsoft.com/ja-jp/events/decode/2019session/detail.aspx?sid=DT81)
+  * [Talk slides](https://www.slideshare.net/yokawasa/azure-functions-20-deep-dive) for [Session CD02](https://www.microsoft.com/ja-jp/events/decode/2019session/detail.aspx?sid=CD02)
+  * [Talk slides](https://www.slideshare.net/yokawasa/distributed-tracing-in-a-cloud-native-age-148757740) for [Session DT81](https://www.microsoft.com/ja-jp/events/decode/2019session/detail.aspx?sid=DT81)
 * [Microsoft Seminar: Cloud Native & Case Studies](https://microsoft-events.connpass.com/event/119618/) - Feb 21, 2019
 * [Developers Summit 2019 Tokyo](https://event.shoeisha.jp/devsumi/20190214/session/1985/) - Feb 15, 2019
   * [Talk slides](https://www.slideshare.net/yokawasa/azure-cloud-native-stack-for-developers-azure)
