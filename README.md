@@ -1,4 +1,4 @@
-# Presentations
+# Presentations at public events
 
 Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitter:[@yokawasa](https://twitter.com/yokawasa))
 
