@@ -3,6 +3,8 @@
 Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitter:[@yokawasa](https://twitter.com/yokawasa))
 
 ---
+* [Serverless Meetup Tokyo #14](https://serverless.connpass.com/event/143446/) - Sept 19, 2019
+  * [Talk slides](https://www.slideshare.net/yokawasa/serverless-v1909-173712712)
 * [DevLOVE X](https://devlove.wixsite.com/devlovex) - June 22, 2019
   * [Talk slides](https://www.slideshare.net/yokawasa/serverless-151261322)
 * [de:code 2019](https://www.microsoft.com/ja-jp/events/decode/2019/default.aspx) - May 29 & 30, 2019
@@ -13,8 +15,7 @@ Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitte
   * [Talk slides](https://www.slideshare.net/yokawasa/azure-cloud-native-stack-for-developers-azure)
   * Articles: [@CodeZine](https://codezine.jp/article/detail/11414)
 * [Container X mas Party with flexy](https://flexy.connpass.com/event/110839/) - Dec 18, 2018
-  * [Talk slides](https://www.slideshare.net/yokawasa/service-mesh-status-quo-2018-126171897)
-  * Demo code: [Envoy Front proxy](https://github.com/yokawasa/envoy-proxy-demos) | [Istio Canary Deployment](https://github.com/istio/istio/tree/master/samples/bookinfo)
+  * [Talk slides](https://www.slideshare.net/yokawasa/service-mesh-status-quo-2018-126171897) (Demo: [Envoy Front proxy](https://github.com/yokawasa/envoy-proxy-demos) | [Istio Canary](https://github.com/istio/istio/tree/master/samples/bookinfo))
   * Articles: [@CodeZine](https://codezine.jp/article/detail/11342)
 * [Japan Container Days V18.12](https://containerdays.jp/) - Dec 5, 2018
   * Co-presentation with Hiromasa Oka
@@ -50,6 +51,5 @@ Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitte
   * Articles: [@MyNaviNews](https://news.mynavi.jp/kikaku/20171107-a002/)
 * [de:code 2017](https://www.microsoft.com/ja-jp/events/decode/2017/sessions.aspx#DI08) - May 24, 2017
   * [Talk slides](https://www.slideshare.net/decode2017/di08-azure-search) | [Video](https://channel9.msdn.com/Events/de-code/2017/DI08)
-  * Demo code: [Azure Search Analyzer Test, Explorer UI, QnA Bot](https://github.com/yokawasa/decode2017)s
 * [de:code 2016](https://www.microsoft.com/ja-jp/events/decode/2016/session.aspx#DEV-018) - May 25, 2016
   * [Talk slides](https://doc.co/fPHSMm) | [Video](https://channel9.msdn.com/Events/de-code/2016/DEV-018)
