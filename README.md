@@ -54,4 +54,4 @@ Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitte
 * [de:code 2017](https://www.microsoft.com/ja-jp/events/decode/2017/sessions.aspx#DI08) - May 24, 2017
   * [Talk slides](https://www.slideshare.net/decode2017/di08-azure-search) | [Video](https://channel9.msdn.com/Events/de-code/2017/DI08)
 * [de:code 2016](https://www.microsoft.com/ja-jp/events/decode/2016/session.aspx#DEV-018) - May 25, 2016
-  * [Talk slides](https://doc.co/fPHSMm) | [Video](https://channel9.msdn.com/Events/de-code/2016/DEV-018)
+  * [Talk slides](https://www.slideshare.net/decode2016/dev018azure-search-deep-dive) | [Video](https://channel9.msdn.com/Events/de-code/2016/DEV-018)
