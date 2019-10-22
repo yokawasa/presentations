@@ -3,6 +3,8 @@
 Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitter:[@yokawasa](https://twitter.com/yokawasa))
 
 ---
+* [DevLOVE - Serverless](https://devlove.doorkeeper.jp/events/98173) - Oct 21, 2019
+  * [Talk slides](https://speakerdeck.com/yokawasa/jin-serverlessgamian-bai-iwake-devlovegan-xie-ban)
 * [Serverless Meetup Tokyo #14](https://serverless.connpass.com/event/143446/) - Sept 19, 2019
   * [Talk slides](https://www.slideshare.net/yokawasa/serverless-v1909-173712712)
 * [DevLOVE X](https://devlove.wixsite.com/devlovex) - June 22, 2019
