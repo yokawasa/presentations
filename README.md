@@ -3,6 +3,8 @@
 Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitter:[@yokawasa](https://twitter.com/yokawasa))
 
 ---
+* [Developers Summit 2020 Tokyo](https://event.shoeisha.jp/devsumi/20200213/session/2338/) - Feb 13, 2020
+  * [Talk slides](https://speakerdeck.com/yokawasa/wo-hazozotownfalsekuraudoziyaniwotong-zitehe-woxue-ndafalseka)
 * [DevLOVE - Serverless](https://devlove.doorkeeper.jp/events/98173) - Oct 21, 2019
   * [Talk slides](https://speakerdeck.com/yokawasa/jin-serverlessgamian-bai-iwake-devlovegan-xie-ban)
 * [Serverless Meetup Tokyo #14](https://serverless.connpass.com/event/143446/) - Sept 19, 2019
