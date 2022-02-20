@@ -1,3 +1,13 @@
+# Publications
+
+| Publication Name  | Publish Day |
+| -------------------------------- | --------- |
+| [Software Design 2022年2月号 第2特集GitHub Actionsで簡単・快適CI/CD](https://gihyo.jp/magazine/SD/archive/2022/202202) ([amazon](https://www.amazon.co.jp/gp/product/B09QKG3C1L/)) | Jan 18, 2022|
+| [日経コンピュータ: 負荷に合わせて10秒単位でサーバー増減、ZOZOのAWSコンテナ活用法](https://xtech.nikkei.com/atcl/nxt/column/18/01478/111800002/) | Dec 1, 2020|
+| [プログラマーのためのVisual Studio Codeの教科書](https://book.mynavi.jp/ec/products/detail/id=115232) ([amazon](https://www.amazon.co.jp/gp/product/B087Q2P56J/))| April 29, 2020 |
+| [ZOZO TECH BOOK VOL.1 - 第3章 速習GitHub Actions 〜 明日からの充実GitHub自動化ライフのための凝縮ポイント 〜](https://zozotechnologies.booth.pm/items/1979460)| April, 2020 |
+
+
 # Presentations at public events
 
 Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitter:[@yokawasa](https://twitter.com/yokawasa))
@@ -5,8 +15,8 @@ Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitte
 ---
 | Event Name | Materials & Relevant links  | Event Day |
 | ---------- | -------------------------------- | --------- |
-| [日経コンピュータ: 負荷に合わせて10秒単位でサーバー増減、ZOZOのAWSコンテナ活用法](https://xtech.nikkei.com/atcl/nxt/column/18/01478/111800002/) | [Article](https://xtech.nikkei.com/atcl/nxt/column/18/01478/111800002/) | Dec 1, 2020|
-| [Tech-on MeetUp Online#03「マルチクラウドで解決するものしないもの　〜エンタープライズにおけるマルチクラウドのリアル〜」](https://techplay.jp/event/793105) | [Talk slides](https://docs.google.com/presentation/d/1IeCMPXM_kdWhOraFLr24EPajEBbp-5cGleonlB2vtrA/edit#slide=id.p1) | Oct 5, 2020|
+| [ZOZO Tech Meetup〜ZOZOTOWNアーキテクトナイ](https://zozotech-inc.connpass.com/event/221751/) | [Talk slides](https://speakerdeck.com/yokawasa/serivce-mesh-architecture-at-zozotown-microservices-platform) | Sept 10, 2021|
+| [Tech-on MeetUp Online#03「マルチクラウドで解決するものしないもの　〜エンタープライズにおけるマルチクラウドのリアル〜」](https://techplay.jp/event/793105) | [Talk slides](https://speakerdeck.com/yokawasa/zozotown-cloud-strategy-tech-on-meetup-03) | Oct 5, 2020|
 | [【ヤマトHD × ZOZOテクノロジーズ】マルチクラウド実践企業から学ぶ最新クラウド事例勉強会](https://techplay.jp/event/791380?fbclid=IwAR373oOV0CVx-FSdqqWpcEWsREGYacvIGJEAkWtQAJ79-vbwGYRCIhgOZ0I) | [Event report](https://techplay.jp/column/1404) | Sept 28, 2020|
 | [技術書典 頒布本「ZOZO TECH BOOK」 解説会 Vol.1](https://zozotech-inc.connpass.com/event/173309/) | [Talk slides](https://speakerdeck.com/yokawasa/zozotechbook1-ch03-githubactions), [Video](https://www.youtube.com/watch?v=kmE1q5wh3r4) | April 28, 2020|
 | [Developers Summit 2020 Tokyo](https://event.shoeisha.jp/devsumi/20200213/session/2338/) | [Talk slides](https://speakerdeck.com/yokawasa/wo-hazozotownfalsekuraudoziyaniwotong-zitehe-woxue-ndafalseka), [Article@CodeZine](https://codezine.jp/article/detail/11990)|Feb 13, 2020 |
