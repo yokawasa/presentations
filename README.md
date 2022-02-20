@@ -16,6 +16,7 @@ Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitte
 | Event Name | Materials & Relevant links  | Event Day |
 | ---------- | -------------------------------- | --------- |
 | [ZOZO Tech Meetup〜ZOZOTOWNアーキテクトナイ](https://zozotech-inc.connpass.com/event/221751/) | [Talk slides](https://speakerdeck.com/yokawasa/serivce-mesh-architecture-at-zozotown-microservices-platform) | Sept 10, 2021|
+| [NoOps Meetup Online#0](https://noops.connpass.com/event/198690/) | [Talk slides](https://speakerdeck.com/yokawasa/noops-meetup-online-number-0-lt) | Dec 16, 2020|
 | [Tech-on MeetUp Online#03「マルチクラウドで解決するものしないもの　〜エンタープライズにおけるマルチクラウドのリアル〜」](https://techplay.jp/event/793105) | [Talk slides](https://speakerdeck.com/yokawasa/zozotown-cloud-strategy-tech-on-meetup-03) | Oct 5, 2020|
 | [【ヤマトHD × ZOZOテクノロジーズ】マルチクラウド実践企業から学ぶ最新クラウド事例勉強会](https://techplay.jp/event/791380?fbclid=IwAR373oOV0CVx-FSdqqWpcEWsREGYacvIGJEAkWtQAJ79-vbwGYRCIhgOZ0I) | [Event report](https://techplay.jp/column/1404) | Sept 28, 2020|
 | [技術書典 頒布本「ZOZO TECH BOOK」 解説会 Vol.1](https://zozotech-inc.connpass.com/event/173309/) | [Talk slides](https://speakerdeck.com/yokawasa/zozotechbook1-ch03-githubactions), [Video](https://www.youtube.com/watch?v=kmE1q5wh3r4) | April 28, 2020|
