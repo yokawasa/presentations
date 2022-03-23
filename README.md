@@ -2,7 +2,7 @@
 
 | Publication Name  | Publish Day |
 | -------------------------------- | --------- |
-| [Software Design 2022年2月号 第2特集GitHub Actionsで簡単・快適CI/CD](https://gihyo.jp/magazine/SD/archive/2022/202202) ([amazon](https://www.amazon.co.jp/gp/product/B09QKG3C1L/)) | Jan 18, 2022|
+| [Software Design 2022年2月号 第2特集GitHub Actionsで簡単・快適CI/CD](https://gihyo.jp/magazine/SD/archive/2022/202202) ([amazon](https://www.amazon.co.jp/gp/product/B09NS3HK69/)) | Jan 18, 2022|
 | [日経コンピュータ: 負荷に合わせて10秒単位でサーバー増減、ZOZOのAWSコンテナ活用法](https://xtech.nikkei.com/atcl/nxt/column/18/01478/111800002/) | Dec 1, 2020|
 | [プログラマーのためのVisual Studio Codeの教科書](https://book.mynavi.jp/ec/products/detail/id=115232) ([amazon](https://www.amazon.co.jp/gp/product/B087Q2P56J/))| April 29, 2020 |
 | [ZOZO TECH BOOK VOL.1 - 第3章 速習GitHub Actions 〜 明日からの充実GitHub自動化ライフのための凝縮ポイント 〜](https://zozotechnologies.booth.pm/items/1979460)| April, 2020 |
