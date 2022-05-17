@@ -15,7 +15,7 @@ Past talks and presentations by [@yokawasa](https://github.com/yokawasa) (twitte
 ---
 | Event Name | Session Title | Materials & Relevant links  | Event Day |
 | ---------- | -------------------------------- | -------------------------------- | --------- |
-| [IstioCon 2022](https://events.istio.io/istiocon-2022/) | [Accelerating ZOZOTOWN Modernization with Istio](https://events.istio.io/istiocon-2022/sessions/accelerating-zozotown-modernization/) | [Talk slides](https://speakerdeck.com/yokawasa/accelerating-zozotown-modernization-with-istio) | April 29, 2022|
+| [IstioCon 2022](https://events.istio.io/istiocon-2022/) | [Accelerating ZOZOTOWN Modernization with Istio](https://events.istio.io/istiocon-2022/sessions/accelerating-zozotown-modernization/) | [Talk slides](https://speakerdeck.com/yokawasa/accelerating-zozotown-modernization-with-istio), [Video](https://www.youtube.com/watch?v=CKDuv9hwQPs) | April 29, 2022|
 | [ZOZO Tech Meetup〜ZOZOTOWNアーキテクトナイ](https://zozotech-inc.connpass.com/event/221751/) | ZOZOTOWNマイクロサービス基盤のService Mesh アーキテクチャへの移行 | [Talk slides](https://speakerdeck.com/yokawasa/serivce-mesh-architecture-at-zozotown-microservices-platform) | Sept 10, 2021|
 | [NoOps Meetup Online#0](https://noops.connpass.com/event/198690/) | Toil撲滅活動に終わりは来ない | [Talk slides](https://speakerdeck.com/yokawasa/noops-meetup-online-number-0-lt) | Dec 16, 2020|
 | [Tech-on MeetUp Online#03「マルチクラウドで解決するものしないもの　〜エンタープライズにおけるマルチクラウドのリアル〜」](https://techplay.jp/event/793105) | ZOZOTOWNのクラウド活用戦略 | [Talk slides](https://speakerdeck.com/yokawasa/zozotown-cloud-strategy-tech-on-meetup-03) | Oct 5, 2020|
